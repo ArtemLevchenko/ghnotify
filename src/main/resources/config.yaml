@@ -1,0 +1,5 @@
+applicationName: "GitHub Notificator"
+iconUIPath: "/ui/notify-32.png"
+serviceURL: "https://github.com/"
+delay: 1000000
+period: 1000000
